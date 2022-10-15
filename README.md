@@ -1,5 +1,6 @@
-#Github Practice
+#BackJoon Practice
 
-git and github in vscode
+Storing fancy algorithm test
 
-**README.md File** Writing...
+
+**BackJoon Repository** is still updating...
